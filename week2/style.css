@@ -1,0 +1,29 @@
+> h2 {
+  color: rgb(143, 95, 195);
+}
+p {
+  font-weight: bolder;
+}
+h1 {
+  font-family: "Bitcount Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings: "slnt" 0, "CRSV" 0.5, "ELSH" 0, "ELXP" 0;
+
+  color: violet;
+  font-weight: bold;
+  font-size: 36px;
+}
+body {
+  font-family: "Caprasimo", serif;
+  font-weight: 1;
+  font-style: normal;
+}
+section {
+  text-align: center;
+  border: 2px solid coral;
+}
+body {
+  background-color: #ffffff;
+}

@@ -1,0 +1,28 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+p {
+  width: 400px;
+  margin: 0 auto;
+  border: 2pxs solid color(rgb(27, 41, 25));
+  background-color: beige;
+  min-height: 200px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+
+  padding: 20px;
+  border-left: 2px dashed burlywood;
+  .vcenter {
+    line-height: 10;
+  }
+
+  span {
+  }
+}

@@ -1,16 +1,16 @@
+header {
+  background: #e7b77c;
+  padding: 1rem 0;
+  text-align: center;
+}
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
   background-color: #fffddf;
-  color: #333;
-}
-
-header {
-  background: #e7b77c;
-  padding: 1rem 0;
-  text-align: center;
+  color: #333333;
 }
 
 main {

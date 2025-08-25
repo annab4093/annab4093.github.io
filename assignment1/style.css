@@ -8,8 +8,7 @@ body {
 }
 
 header {
-  background: #333;
-  color: #fff;
+  background: #e7b77c;
   padding: 1rem 0;
   text-align: center;
 }
@@ -45,14 +44,4 @@ ul {
 ul {
   list-style-type: disc;
   padding-left: 20px;
-}
-
-footer {
-  background: #333;
-  color: #b9623d;
-  text-align: center;
-  padding: 1rem 0;
-  position: fixed;
-  width: 100%;
-  bottom: 0;
 }

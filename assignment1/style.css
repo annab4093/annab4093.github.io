@@ -46,3 +46,9 @@ ul {
   list-style-type: disc;
   padding-left: 20px;
 }
+
+.fixed-img {
+  width: 800px;
+  height: 600px;
+  object-fit: cover; /* makes sure it doesn't stretch */
+}
